@@ -1,4 +1,4 @@
-# SpecFlowCalculator
+# SpecFlowCalculator from guide
 
 SpecFlow guide:
 
